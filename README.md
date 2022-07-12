@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I'm the Finance, Policy, and Data director for the City of Philadelphia's [@PhilaController](https://github.com/PhilaController) and teach a [Python geospatial data science course](https://musa-550-fall-2021.github.io) in the [Masters of Urban Spatial Analytics program](https://www.design.upenn.edu/musa/about) at the University of Pennsylvania.
 
