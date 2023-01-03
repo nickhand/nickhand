@@ -4,4 +4,4 @@ I'm the Finance, Policy, and Data director for the City of Philadelphia's [@Phil
 
 I'm a former academic with a Ph.D. in astrophysics from UC Berkeley. I am passionate about data visualization, predictive analytics, and effective communication of complex ideas to a broad audience. I am a strong supporter of transparency in government, open-source software, and the open science framework.
 
-I live in the Fairmount neighborhood of Philadelphia, PA, with my wife, our 7-month-old daughter, and our 5-year-old rescue dog.
+I live in the Fairmount neighborhood of Philadelphia, PA, with my wife, our 1-year-old daughter, and our 6-year-old rescue dog.
