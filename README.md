@@ -8,17 +8,30 @@ I currently lead analytics work at Voyatek, supporting data engineering and anal
 
 ## Selected work
 
-- **Mapping Philadelphia’s Gun Violence**  
-  Public data project tracking shootings in Philadelphia using geospatial analysis, automated data workflows, and web-based visualization.
+### Mapping Philadelphia’s Gun Violence
 
-- **ProgressPHL**  
-  Neighborhood well-being dashboard developed at the Philadelphia City Controller’s Office.
+A public data project tracking shootings in Philadelphia using geospatial analysis, automated data workflows, and web-based visualization.
 
-- **Geospatial Data Science in Python**  
-  Course materials for a graduate course taught at the University of Pennsylvania.
+[Project](https://www.nickhand.dev/philly-gun-violence-map/) · [GitHub](https://github.com/nickhand/philly-gun-violence-dashboard)
 
-- **Parking Jawn**  
-  Older civic data project exploring parking violations in Philadelphia.
+### ProgressPHL
+
+A neighborhood well-being dashboard developed at the Philadelphia City Controller’s Office.
+
+[Project](https://controller.phila.gov/philadelphia-reports/progressphl/)
+
+### Geospatial Data Science in Python
+
+Course materials for a graduate course I taught at the University of Pennsylvania.
+
+[Course site](https://musa-550-fall-2023.github.io/) · [GitHub](https://github.com/musa-550-fall-2023)
+
+### Parking Jawn
+
+An older civic data project exploring parking violations in Philadelphia.
+
+[Project](https://parkingjawn.com/) · [GitHub](https://github.com/nickhand/parking-jawn)
+
 
 ## Things I work on
 
