@@ -1,5 +1,36 @@
-### Hello there 👋
+# Nick Hand
 
-Until recently, I was a technologist at the [Consumer Financial Protection Bureau](https://github.com/CFPB) working to detect and prevent unfair, deceptive, and abusive practices in consumer financial services. I also recently taught a [Python geospatial data science course](https://musa-550-fall-2023.github.io) in the [Masters of Urban Spatial Analytics program](https://www.design.upenn.edu/musa/about) at the University of Pennsylvania. Prior to working at the CFPB, I was the Finance, Policy, and Data director for the City of Philadelphia's [@PhilaController](https://github.com/PhilaController). 
+I’m a technologist, data scientist, and educator based in Philadelphia.
 
-I'm a former academic with a Ph.D. in astrophysics from UC Berkeley. I am passionate about data visualization, predictive analytics, and effective communication of complex ideas to a broad audience. I am a strong supporter of transparency in government, open-source software, and the open science framework.
+My work focuses on data, technology, and public accountability, mostly in and around government.
+
+I currently lead analytics work at Voyatek, supporting data engineering and analytics tools for IRS anti-money-laundering compliance exams. Previously, I worked as an enforcement technologist at the Consumer Financial Protection Bureau, led the Finance, Policy, and Data unit in the Philadelphia City Controller’s Office, and taught geospatial data science in Python at the University of Pennsylvania.  [oai_citation:0‡Nick Hand Resume - June 2026.pdf](sediment://file_00000000ec0471fdb6db643701bf9380)
+
+## Selected work
+
+- **Mapping Philadelphia’s Gun Violence**  
+  Public data project tracking shootings in Philadelphia using geospatial analysis, automated data workflows, and web-based visualization.
+
+- **ProgressPHL**  
+  Neighborhood well-being dashboard developed at the Philadelphia City Controller’s Office.
+
+- **Geospatial Data Science in Python**  
+  Course materials for a graduate course taught at the University of Pennsylvania.
+
+- **Parking Jawn**  
+  Older civic data project exploring parking violations in Philadelphia.
+
+## Things I work on
+
+- public-sector data systems
+- geospatial analysis and visualization
+- Python data engineering
+- AI/ML, data privacy, and technology accountability
+- civic dashboards and public-facing data tools
+- technical communication and teaching
+
+## Elsewhere
+
+- Website: [nickhand.dev](https://nickhand.dev)
+- GitHub: [@nickhand](https://github.com/nickhand)
+- LinkedIn: [nickhand](https://www.linkedin.com/in/nickhand)
