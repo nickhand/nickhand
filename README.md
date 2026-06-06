@@ -4,7 +4,7 @@ I’m a technologist, data scientist, and educator based in Philadelphia.
 
 My work focuses on data, technology, and public accountability, mostly in and around government.
 
-I currently lead analytics work at Voyatek, supporting data engineering and analytics tools 
+I currently lead an analytics team at Voyatek, supporting data engineering and analytics tools 
 for IRS anti-money-laundering compliance exams. Previously, I worked as an enforcement technologist at 
 the Consumer Financial Protection Bureau, led the Finance, Policy, and Data unit in the Philadelphia City Controller’s Office, and taught geospatial data science in Python at the University of Pennsylvania.
 ## Selected work
