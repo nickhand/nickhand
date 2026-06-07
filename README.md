@@ -47,4 +47,4 @@ An older civic data project exploring parking violations in Philadelphia.
 
 - Website: [nickhand.dev](https://nickhand.dev)
 - GitHub: [@nickhand](https://github.com/nickhand)
-- LinkedIn: [nickhand](https://www.linkedin.com/in/nickhand)
+- LinkedIn: [nickhand](https://www.linkedin.com/in/nickhandphl)
