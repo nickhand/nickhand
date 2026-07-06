@@ -15,6 +15,13 @@ A public data project tracking shootings in Philadelphia using geospatial analys
 
 [Project](https://www.nickhand.dev/philly-gun-violence-map/) · [GitHub](https://github.com/nickhand/philly-gun-violence-dashboard)
 
+
+### Fair Measure Philadelphia
+
+Independent, open-data check of Philadelphia's property assessments — a public-data valuation model compared against the city's values, property by property.
+
+[Project](https://www.nickhand.dev/philly-fair-measure/) · [GitHub](https://github.com/nickhand/philly-fair-measure)
+
 ### ProgressPHL
 
 A neighborhood well-being dashboard developed at the Philadelphia City Controller’s Office.
