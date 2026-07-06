@@ -20,7 +20,7 @@ A public data project tracking shootings in Philadelphia using geospatial analys
 
 Independent, open-data check of Philadelphia's property assessments — a public-data valuation model compared against the city's values, property by property.
 
-[Project](https://www.nickhand.dev/philly-fair-measure/) · [GitHub](https://github.com/nickhand/philly-fair-measure)
+[Project](https://www.nickhand.dev/fair-measure/) · [GitHub](https://github.com/nickhand/philly-fair-measure)
 
 ### ProgressPHL
 
