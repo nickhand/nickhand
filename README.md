@@ -1,12 +1,13 @@
 # Nick Hand
 
-I’m a technologist, data scientist, and educator based in Philadelphia.
+I'm a public servant protecting consumers through technology, data, and policy. Based in Philadelphia, I care about making government work better for the people it serves.
 
-My work focuses on data, technology, and public accountability, mostly in and around government.
+I am a Senior AI Policy and Technology Fellow at the Delaware Attorney General's Office, in the Fraud and Consumer Protection Division.
 
-I currently lead an analytics team at Voyatek, supporting data engineering and analytics tools 
-for IRS anti-money-laundering compliance exams. Previously, I worked as an enforcement technologist at 
-the Consumer Financial Protection Bureau, led the Finance, Policy, and Data unit in the Philadelphia City Controller’s Office, and taught geospatial data science in Python at the University of Pennsylvania.
+Previously, I led an analytics team at Voyatek, supporting data engineering and analytics tools for IRS anti-money-laundering compliance exams. I also worked as an enforcement technologist at the Consumer Financial Protection Bureau, led the Finance, Policy, and Data unit in the Philadelphia City Controller's Office, and taught geospatial data science in Python at the University of Pennsylvania.
+
+I started my career in astrophysics, earning a PhD from UC Berkeley and a BA from Princeton.
+
 ## Selected work
 
 ### Mapping Philadelphia’s Gun Violence
@@ -43,6 +44,7 @@ An older civic data project exploring parking violations in Philadelphia.
 
 ## Things I work on
 
+- consumer protection and AI policy
 - public-sector data systems
 - geospatial analysis and visualization
 - Python data engineering
