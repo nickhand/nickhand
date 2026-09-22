@@ -4,7 +4,7 @@ I’m a data scientist working in consumer protection, currently focused on AI a
 
 Philadelphia is home. I build and maintain public tools like the [Philadelphia Gun Violence Dashboard](https://www.nickhand.dev/philly-gun-violence-map/) and [Fair Measure](https://www.nickhand.dev/fair-measure/), a model for fairer, more transparent property assessments, built entirely from public data.
 
-[Website](https://www.nickhand.dev/) · [Résumé](https://www.nickhand.dev/resume.pdf) · [Email](mailto:nicholas.adam.hand@gmail.com)
+[Website](https://www.nickhand.dev/) · [Resume](https://www.nickhand.dev/resume.pdf) · [Email](mailto:nicholas.adam.hand@gmail.com)
 
 ## Selected work
 
