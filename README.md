@@ -1,14 +1,10 @@
 # Nick Hand
 
-I'm a public servant protecting consumers. My expertise is in technology, data science, and public policy. I care about making government work better for the people it serves.
+I’m a data scientist working in consumer protection, currently focused on AI at the Delaware Attorney General’s Office. Previously, I worked at the Consumer Financial Protection Bureau and led policy and data analysis in Philadelphia’s City Controller’s Office.
 
-I serve as a Senior AI Policy and Technology Fellow at the Delaware Attorney General's Office, in the Fraud and Consumer Protection Division.
+Philadelphia is home. I build and maintain public tools like the [Philadelphia Gun Violence Dashboard](https://www.nickhand.dev/philly-gun-violence-map/) and [Fair Measure](https://www.nickhand.dev/fair-measure/), a model for fairer, more transparent property assessments, built entirely from public data.
 
-Previously, I led an analytics team at Voyatek, supporting data engineering and analytics tools for IRS anti-money-laundering compliance exams. As an enforcement technologist at the Consumer Financial Protection Bureau, I focused on AI/ML, algorithmic bias, data security, and privacy.
-
-Before that, I led the Finance, Policy, and Data unit in the Philadelphia City Controller's Office, producing public analysis on property assessments, gun violence, spending, taxes, and city operations. I also taught graduate-level geospatial data science in Python at the University of Pennsylvania.
-
-I started my career in astrophysics, earning a PhD from UC Berkeley and a BA from Princeton. I'm based in Philadelphia.
+[Website](https://www.nickhand.dev/) · [Résumé](https://www.nickhand.dev/resume.pdf) · [Email](mailto:nicholas.adam.hand@gmail.com)
 
 ## Selected work
 
@@ -18,10 +14,9 @@ A public data project tracking shootings in Philadelphia using geospatial analys
 
 [Project](https://www.nickhand.dev/philly-gun-violence-map/) · [GitHub](https://github.com/nickhand/philly-gun-violence-dashboard)
 
-
 ### Fair Measure Philadelphia
 
-Independent, open-data check of Philadelphia's property assessments. A public-data valuation model compared against the city's values, property by property.
+A model for fairer, more transparent property assessments, built entirely from public data. Compare the model’s estimates against the city’s values, property by property.
 
 [Project](https://www.nickhand.dev/fair-measure/) · [GitHub](https://github.com/nickhand/philly-fair-measure)
 
@@ -43,6 +38,11 @@ An older civic data project exploring parking violations in Philadelphia.
 
 [Project](https://parkingjawn.com/) · [GitHub](https://github.com/nickhand/parking-jawn)
 
+## About
+
+I also run Wissahickon Analytics, where I help local governments analyze their data and build interactive tools for the public. If you have a project in mind, [get in touch](mailto:nicholas.adam.hand@gmail.com).
+
+I started my career in astrophysics, earning a PhD from UC Berkeley and a BA from Princeton. I also taught graduate-level geospatial data science in Python at the University of Pennsylvania.
 
 ## Things I work on
 
